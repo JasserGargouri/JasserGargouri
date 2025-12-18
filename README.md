@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jasser</h1>
 <h3 align="center">Motivated, rigorous, diligent and fully committed to the field of cybersecurity, I strive to excel in this field.</h3>
 
-- 🔭 I’m currently studying Telecommunication Engineering at **ENETCOM Sfax**
-
-- 🌱 I’m currently learning **Management and Leadership**
-
 - 📫 How to reach me **Gargouri.jasser@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
